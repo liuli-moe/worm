@@ -1,0 +1,28 @@
+tasks:
+  - name: docs
+    input:
+      name: '@mark-magic/plugin-local'
+      config:
+        path: ./books
+    output:
+      name: '@mark-magic/plugin-docs'
+      config:
+        path: ./dist/docs
+        lang: zh-CN
+        name: 蠕虫
+        public: ./static
+  - name: epub
+    input:
+      name: '@mark-magic/plugin-local'
+      config:
+        path: ./books
+    output:
+      name: '@mark-magic/plugin-epub'
+      config:
+        path: ./dist/epub/Worm.epub
+        id: worm
+        title: 蠕虫
+        creator: Wildbow
+        publisher: rxliuli
+        language: zh-CN
+        cover: ./static/cover.png
