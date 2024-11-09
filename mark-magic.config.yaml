@@ -11,6 +11,13 @@ tasks:
         lang: zh-CN
         name: 蠕虫
         public: ./static
+        sitemap:
+          hostname: https://worm.liuli.moe
+        nav:
+          - text: 原作
+            link: https://parahumans.wordpress.com/
+          - text: GitHub
+            link: https://github.com/liuli-moe/worm
   - name: epub
     input:
       name: '@mark-magic/plugin-local'
