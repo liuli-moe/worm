@@ -14,5 +14,6 @@ export default defineConfig({
     config(md) {
       md.use(taskLists).use(cjk() as any)
     },
+    breaks: true,
   },
 })
