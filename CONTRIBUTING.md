@@ -85,7 +85,7 @@
 | Tinker                           | 修补匠                       |
 | 其他                             |                              |
 | Gestation                        | 孕育                         |
-| Insinuation                      | 渗透                         |
+| Insinuation                      | 求宠                         |
 | Agitation                        | 搅乱                         |
 | Shell                            | 壳                           |
 | Hive                             | 蜂巢                         |
