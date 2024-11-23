@@ -11,5 +11,6 @@
     "strict": true,
 
     "skipLibCheck": true
-  }
+  },
+  "include": ["books/.vitepress/config.ts", "replace.ts"]
 }

@@ -18,6 +18,8 @@ tasks:
             link: https://parahumans.wordpress.com/
           - text: GitHub
             link: https://github.com/liuli-moe/worm
+        search:
+          enabled: true
   - name: epub
     input:
       name: '@mark-magic/plugin-local'
