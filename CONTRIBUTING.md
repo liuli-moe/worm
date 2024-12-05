@@ -20,11 +20,18 @@
 | 原文                             | 译文                         |
 | -------------------------------- | ---------------------------- |
 | 人名                             |                              |
+| Taylor Hebert/Skitter            | 泰勒・赫伯特/掠翅            |
 | Lisa/Tattletale                  | 丽莎/谜探                    |
 | Brian/Grue                       | 布莱恩/暗魇                  |
 | Rachel Lindt/Bitch/Hellhound     | 瑞秋・林德/母狗/地狱猎犬     |
 | Alec/Regent                      | 亚历克/摄政王                |
 | Armsmaster                       | 武器大师                     |
+| Miss Militia                     | 民兵小姐                     |
+| Triumph                          | 凯旋                         |
+| Velocity                         | 疾速                         |
+| Dauntless                        | 无畏                         |
+| Battery                          | 电击                         |
+| Assault                          | 强袭                         |
 | Lung                             | 龙                           |
 | Oni Lee                          | 李鬼                         |
 | Bakuda                           | 爆弹                         |
@@ -32,21 +39,37 @@
 | Leet                             | 黑客                         |
 | Scion                            | 赛扬                         |
 | Alexandria                       | 亚历山德拉                   |
-| Spitfire                         | 烈焰                         |
-| Circus                           | 马戏团                       |
+| Legend                           | 传奇                         |
+| The Simurgh                      | 西摩格                       |
 | Victoria Dallon/Vicky/Glory Girl | 维多利亚・达隆/小维/荣耀女孩 |
 | Amy/Panacea                      | 艾米/万能药                  |
 | Carol/Brandish                   | 卡罗尔/烈光                  |
+| Flashbang                        | 闪光                         |
+| Lady Photon                      | 光子女士                     |
+| Manpower                         | 电力人                       |
+| Laserdream                       | 雷射幻梦                     |
+| Shielder                         | 盾者                         |
+| Fleur                            | 光鸢尾                       |
+| Lightstar                        | 耀星                         |
 | Aegis                            | 神盾                         |
+| Clockblocker                     | 吊挡钟                       |
+| Vista                            | 远景                         |
+| Kid Win                          | 胜利小子                     |
+| Gallant                          | 豪侠                         |
+| Browbeat                         | 恫巖                         |
 | Kaiser                           | 凯撒                         |
 | Coil                             | 蛇蜷                         |
 | Squealer                         | 尖啸者                       |
 | Trainwreck                       | 残骸                         |
 | Stain                            | 污渍                         |
-| Vikare                           | 海豹                         |
-| Andrew Hawke                     | 安德鲁・霍克                 |
+| Narwhal                          | 独角鲸                       |
+| Circus                           | 马戏团                       |
+| Spitfire                         | 烈焰                         |
+| Professor Haywire                | 混乱教授                     |
+| Heartbreaker                     | 碎心者                       |
+| Nilbog                           | 尼尔博格                     |
+| Vikare/Andrew Hawke              | 海豹/安德鲁・霍克            |
 | Grace Lands                      | 格蕾丝・兰兹                 |
-| Taylor Hebert                    | 泰勒・赫伯特                 |
 | Annette Rose Hebert              | 安妮特・萝丝・赫伯特         |
 | Danny Hebert                     | 丹尼・赫伯特                 |
 | Madison Clements                 | 麦迪森・克莱门茨             |
@@ -71,6 +94,8 @@
 | Faultline                        | 断层线                       |
 | the Guild                        | 行会                         |
 | New Wave                         | 新浪潮                       |
+| The Slaughterhouse Nine          | 屠宰场九人组                 |
+| Endbringer                       | 终结者                       |
 | 地名                             |                              |
 | Brockton Bay                     | 布洛克顿湾                   |
 | Arcadia High                     | 阿卡迪亚高中                 |
@@ -83,7 +108,8 @@
 | Parahumans                       | 超人类                       |
 | Parahumans Online                | 超人类在线                   |
 | Tinker                           | 修补匠                       |
-| 其他                             |                              |
+| Manton effect                    | 曼顿效应                     |
+| 章节名                           |                              |
 | Gestation                        | 孕育                         |
 | Insinuation                      | 求宠                         |
 | Agitation                        | 搅乱                         |
@@ -142,4 +168,5 @@
   > TT。
   ```
 
-- [ ] 为每个章节添加插图
+- [x] 为每个章节添加插图
+- [x] Nilbog 采用 林布哥 还是 尼尔博格？从一致性上来看应该采用前者，但实际在其他作品中并未见过这种翻译 -- 采用一致性的意译
